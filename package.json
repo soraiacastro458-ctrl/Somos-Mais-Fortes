@@ -1,0 +1,28 @@
+{
+  "name": "juntas-somos-mais-fortes",
+  "version": "1.0.0",
+  "description": "Site de conscientização sobre violência doméstica desenvolvido pelos alunos do curso de direito da UNIFG",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "build": "echo 'No build needed for static site'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "violência doméstica",
+    "mulheres",
+    "conscientização",
+    "ajuda",
+    "UNIFG",
+    "direito"
+  ],
+  "author": "Alunos do Curso de Direito - UNIFG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/juntas-somos-mais-fortes.git"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
