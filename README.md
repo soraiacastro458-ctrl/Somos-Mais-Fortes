@@ -254,7 +254,7 @@ Para dúvidas ou sugestões, entre em contato com a equipe UNIFG.
 
 ## 🎓 Sobre o Projeto
 
-Este site foi desenvolvido como projeto acadêmico pelos alunos do curso de direito da UNIFG, sob orientação dos professores Diego Guilherme Lopes Rodrigues e Fernanda Beatriz do Nascimento Silva Xará.
+Este site foi desenvolvido como projeto acadêmico pelos alunos do curso de direito da UNIFG, sob orientação dos professores Me. Silas da Silva Freire Nascimento e Fernanda Beatriz do Nascimento Silva Xará.
 
 O objetivo é conscientizar a sociedade sobre violência doméstica e fornecer informações e recursos para mulheres em situação de risco.
 
